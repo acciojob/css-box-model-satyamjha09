@@ -1,2 +1,18 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	background-color: #f4f4f4;
+	
+}
 
-/* Your CSS Code here. */
+.box {
+	height: 300px;
+	width: 500px;
+	background-color: white;
+	padding: 50px;
+	margin: 20px;
+	border: 15px solid blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
